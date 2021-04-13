@@ -4,7 +4,7 @@ body{
 }
 
 #container{
-    margin : 20px auto;
+    margin : 30% auto;
     background-color: white;
     height: 300px;
     width : 700px;
@@ -16,7 +16,7 @@ body{
     font-size: 1.5em;
     font-weight: bolder;
     word-break: break-all;
-    width:150px;
+    width:200px;
     height:150px;
     border : 2px solid lightgrey;
     text-align: center;
