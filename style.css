@@ -1,16 +1,24 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@safia989 
 
   
 body{
     font-size: 20px;
     font-family: monospace;
-	background-color: #DCDCDC;
 }
 
 #container{
     margin : 30% auto;
-    background-color: #F0FFFF;
+    background-color: white;
     height: 300px;
-    width : 500px;
+    width : 700px;
     border-radius: 5px;
     box-shadow: 0px 5px 15px 0px;
     position: relative;
@@ -127,7 +135,7 @@ body{
     background-color: white;
     opacity: 0.8;
     height: 300px;
-    width : 500px;
+    width : 700px;
     border-radius: 5px;
     box-shadow: 0px 5px 15px 0px;
     position: relative;
@@ -149,6 +157,8 @@ body{
     font-weight: bold;
     text-align: center;
 }
+
+
 
 
 
