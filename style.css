@@ -4,13 +4,15 @@
 body{
     font-size: 20px;
     font-family: monospace;
+	background-color: #DCDCDC;
 }
 
 #container{
     margin : 30% auto;
-    background-color: white;
+    background-color: #F5F5F5;
+	
     height: 300px;
-    width : 700px;
+    width : 600px;
     border-radius: 5px;
     box-shadow: 0px 5px 15px 0px;
     position: relative;
@@ -25,7 +27,7 @@ body{
     text-align: center;
     cursor: pointer;
     position: absolute;
-    left:300px;
+    left:200px;
     top:50px;
     color : grey;
 }
