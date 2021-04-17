@@ -6,6 +6,7 @@ body{
 }
 }
 #container{
+	margin-top:250px; 
     margin : 20px auto;
     background-color: white;
     height: 300px;
@@ -15,10 +16,11 @@ body{
     position: relative;
 }
 #start{
+	
     font-size: 1.5em;
     font-weight: bolder;
     word-break: break-all;
-    width:100px;
+    width:150px;
     height:150px;
     border : 2px solid lightgrey;
     text-align: center;
