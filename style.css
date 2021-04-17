@@ -2,12 +2,13 @@
 body{
     font-size: 20px;
     font-family: monospace;
-	background-color: #E6E6FA;
+	background-color: #c5d6d0;
 }
 }
 #container{
-    margin-top:500px; 
-    margin : 20px auto;
+  /* margin-top: 100px;
+    margin : 20px auto;*/
+ margin: 100px 20px 20px 20px;
     background-color: white;
     height: 300px;
     width : 700px;
