@@ -1,9 +1,10 @@
+@media only screen and (max-width: 600px) {
 body{
     font-size: 20px;
     font-family: monospace;
 	background-color: #E6E6FA;
 }
-
+}
 #container{
     margin : 20px auto;
     background-color: white;
